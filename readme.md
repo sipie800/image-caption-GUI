@@ -8,6 +8,7 @@ I did a survey and surprisingly there is no such an app there. This app is nothi
 Any AI-aiding features is bound to be added later, as long as the feature is helpful for human captioning.
 
 # 1.28.2025  release
+![sample](https://github.com/user-attachments/assets/868b8a2c-00fb-4436-9966-3b399ffc2da3)
 ## usage
 0. Open a image, the rest images in the same path will be loaded.
 1. Broswer your images in GUI and type in the captions in normal way. txt will be saved in the same path. (for sd-scripts...etc)
