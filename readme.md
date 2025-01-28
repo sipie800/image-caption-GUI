@@ -16,4 +16,4 @@ Any AI-aiding features is bound to be added later, as long as the feature is hel
 3. **Ctrl+D**, copy caption. **Ctrl+F**, paste caption. **Tab**, switch the first attribute fast (in case that you may wanna do rough and fast filtering of many images).
 4. Write your own **highlight.txt** in lines to highlight the words you wanna to.
 5. The usages is easy to understand, see the **pepe_caption_example**.
-## feel free to make suggestions in a human view.
+## only for win now. feel free to make suggestions in a human view.
