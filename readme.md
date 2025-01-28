@@ -5,7 +5,7 @@ The idea behind is to support human-crafted and **HIGH** quality captioning with
 
 I did a survey and surprisingly there is no such an app there. This app is nothing special but to make a human concentrate on create fine captions in a cozy workflow.
 
-Any AI-aiding features is bound to be added later, as long as the feature is helpful for human captioning.
+AI-aiding features is bound to be added later, as long as the feature is helpful for human captioning.
 
 # 1.28.2025  release
 ![sample](https://github.com/user-attachments/assets/cf79a7c6-edc9-4121-a00c-5369271630de)
